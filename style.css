@@ -1,22 +1,36 @@
+.sectionone{
+    background-image: -webkit-linear-gradient(160deg,#0c4803 50%, white 50%); 
+    height: 100vh;
+   
+}
 .nav{
     display: flex;
     justify-content: space-between;
-    opacity: 2.5;
-}
+    }
 .leftnav h1{
     font-family: "Oleo Script Swash Caps";
     float: right;
 }
-.leftnav span{
+ span{
     color: #0C4803;
 }
 .rightnav a{
     text-decoration: none;
     font-size: 35px;
-    color: #0C4803;
+    color: white;
     padding: 30px;
+    font-weight: 600;
 }
 /* the description paragraph */
+.sectiontwo{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    
+}
 .description{
     font-size: 50px;
+}
+.image img{
+    height: 450px;
 }
