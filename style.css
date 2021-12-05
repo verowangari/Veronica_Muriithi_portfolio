@@ -34,3 +34,10 @@
 .image img{
     height: 450px;
 }
+/* About me */
+.aboutme h2,h5{
+    text-align: center;
+}
+.education li{
+    color: #0C4803;
+}
