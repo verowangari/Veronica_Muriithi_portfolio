@@ -74,3 +74,13 @@
 .why p{
     line-height: 1.9rem;
 }
+.contact{
+    color: white;
+    font-weight: 500px;
+    background-color: #0c4803;
+    border: none;
+    padding: 30px 50px 30px 50px ;
+    border-radius: 0 40px 0 40px;
+    margin-left: 47%;
+}
+
