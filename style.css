@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    opacity: 2.5;
+}
+.leftnav h1{
+    font-family: "Oleo Script Swash Caps";
+    float: right;
+}
+.leftnav span{
+    color: #0C4803;
+}
+.rightnav a{
+    text-decoration: none;
+    font-size: 35px;
+    color: #0C4803;
+    padding: 30px;
+}
+/* the description paragraph */
+.description{
+    font-size: 50px;
+}
