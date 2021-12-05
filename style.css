@@ -30,10 +30,11 @@
 }
 .description{
     font-size: 50px;
-    padding-top: 90px;
+    padding-top: 150px;
+    padding-left: 65px;
 }
 .image img{
-    height: 450px;
+    height: 85%;
 }
 /* About me */
 .aboutme{
@@ -43,17 +44,20 @@
 .mybackground{
     display: flex;
     justify-content: center;
+    padding-top: 40px;
 }
 .introduction h2,h5{
     text-align: center;
     
 }
 .introduction h2{
-    font-size: 40px;
+    font-size: 60px;
     color: #0c4803;
+    font-family: "Oleo Script Swash Caps";
+    padding-top: 30px;
 }
 .introduction h5{
-    font-size: 20px;
+    font-size: 40px;
     color: #0c4803;
 }
 
@@ -99,7 +103,7 @@
     justify-content: center;
     /* color: white; */
 }
-.card{
+.cards{
     margin-left: 25px;
     background-color: white;
     height: 450px;
