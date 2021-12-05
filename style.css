@@ -12,7 +12,7 @@
     float: right;
 }
  span{
-    color: #0C4803;
+    color: #1EAB07;
 }
 .rightnav a{
     text-decoration: none;
@@ -35,9 +35,24 @@
     height: 450px;
 }
 /* About me */
-.aboutme h2,h5{
+.mybackground{
+    display: flex;
+    justify-content: space-evenly;
+}
+.introduction h2,h5{
     text-align: center;
 }
+.introduction h2{
+    font-size: 40px;
+    color: #0c4803;
+}
+.introduction h5{
+    font-size: 20px;
+    color: #0c4803;
+}
+
 .education li{
-    color: #0C4803;
+    color: #1EAB07;
+    font-weight: 700;
+    font-size: 20px;
 }
