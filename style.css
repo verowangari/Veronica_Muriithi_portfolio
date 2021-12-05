@@ -129,28 +129,23 @@
     font-size: 30px;
     padding-top: 20px;
 }
-/* my projects */
-.mywork img{
-    height: 90px;
+/* CONTAINER */
+.btnprimary{
+    background-color: #0c4803;
+    color: white;
+    font-weight: 500px;
+    border-radius:5px 30px 30px 5px;
+    padding: 10px 5px 10px 5px ;
 }
-.mywork{
-    display: flex;
-    justify-content: space-evenly;
+.container{
+    padding-top: 50px;
+    height: 50vh;
 }
-.mywork li{
-    padding-bottom: 30px;
-    font-size: 2rem;
-    color: #0c4803;
-}
-.mywork a{
-    color: #0c4803;
-
-}
-.mywork p{
-    text-align: left;
-}
-.projects h3{
+.container h3{
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     color: #0c4803;
+}
+.row{
+    padding-top: 40px;
 }
