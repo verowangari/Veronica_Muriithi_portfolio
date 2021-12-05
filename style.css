@@ -46,6 +46,7 @@
 }
 .introduction h2,h5{
     text-align: center;
+    
 }
 .introduction h2{
     font-size: 40px;
@@ -89,15 +90,21 @@
 /* Skills */
 .threecards img{
     height: 150px;
+    padding-top: 20px;
 }
 .threecards{
     height: 100vh;
     display: flex;
     justify-content: center;
-    color: white;
+    /* color: white; */
 }
 .card{
     margin-left: 25px;
+    background-color: white;
+    height: 450px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 70px;
 }
 .myskills{
     background-image: url(assets/WhatsApp\ Image\ 2021-12-05\ at\ 7.02.04\ PM.jpeg);
@@ -105,5 +112,11 @@
     background-size: contain;
     height: 100vh;
 
+}
+.myskills h3,h5 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
 }
 
