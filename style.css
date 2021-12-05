@@ -30,6 +30,7 @@
 }
 .description{
     font-size: 50px;
+    padding-top: 90px;
 }
 .image img{
     height: 450px;
@@ -80,7 +81,29 @@
     background-color: #0c4803;
     border: none;
     padding: 30px 50px 30px 50px ;
-    border-radius: 0 40px 0 40px;
+    border-radius:5px 30px 30px 5px;
     margin-left: 47%;
+}
+.contact button{ margin-bottom: 20px;
+}
+/* Skills */
+.threecards img{
+    height: 150px;
+}
+.threecards{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.card{
+    margin-left: 25px;
+}
+.myskills{
+    background-image: url(assets/WhatsApp\ Image\ 2021-12-05\ at\ 7.02.04\ PM.jpeg);
+    background-position: center;
+    background-size: contain;
+    height: 100vh;
+
 }
 
