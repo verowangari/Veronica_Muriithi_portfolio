@@ -11,7 +11,7 @@ This a page that shows my education background, skills and my hobbies.
 ## Known Bugs
 There are no issues, it runs just fine.
 ## Technologies Used
-1) HTML <br> 2) CSS
+1) HTML <br> 2) CSS <br> 3) BootStrap
 ## Support and contact details
 Email: verowangari34@gmail.com
 ## License
