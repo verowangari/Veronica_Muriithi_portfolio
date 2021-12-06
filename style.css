@@ -141,6 +141,7 @@
 .container{
     padding-top: 50px;
     height: 50vh;
+  
 }
 .container h3{
     text-align: center;
@@ -149,4 +150,14 @@
 }
 .row{
     padding-top: 40px;
+}
+/* FOOTER */
+.myfooter{
+    border: 1px solid green;
+margin-top: 160px;
+text-align: center;
+background-color: #0c4803;
+color: white;
+font-weight: bold;
+
 }
