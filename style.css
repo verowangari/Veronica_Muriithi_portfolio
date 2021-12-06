@@ -160,7 +160,9 @@ background-color: #0c4803;
 color: white;
 font-weight: bold;
 font-size: larger;
-
+}
+.copyright a{
+    color: white;
 }
 /* mediaquery */
 /* @media only screen and (min-width: 480px) { */
